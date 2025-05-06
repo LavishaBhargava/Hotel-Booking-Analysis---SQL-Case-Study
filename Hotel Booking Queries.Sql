@@ -156,3 +156,4 @@ FROM hotel_booking
 GROUP BY market_segment 
 ORDER BY segment_count DESC;
 
+
